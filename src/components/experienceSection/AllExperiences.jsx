@@ -5,9 +5,9 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Front-End Developer",
-    company: "Alex Apps",
-    date: "2022 - Present",
+    job: "Full Stack Developer",
+    company: "Columbia Engineering Coding Boot Camp",
+    date: "2024 - 2025",
     responsibilities: [
       "Implementing reusable components.",
       "Participating in large scale application.",
