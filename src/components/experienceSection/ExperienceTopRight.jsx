@@ -6,12 +6,12 @@ const ExperienceTopRight = () => {
         <span className="font-bold text-white">
           React and modern JavaScript
         </span>
-        , leveraging best practices to create scalable and maintainable
-        solutions. <br />
-        My experience spans working on diverse projects, from small business
-        websites to{" "}
-        <span className="font-bold text-white">complex front-end systems</span>,
-        always aiming for clean code and exceptional user experiences.
+        , building responsive and user-friendly interfaces through hands-on
+        project work. <br />
+        My experience comes from developing{" "}
+        <span className="font-bold text-white">real-world apps</span> during an
+        intensive coding bootcamp and personal projects, always focused on clean
+        code, scalability, and great user experiences.
       </p>
     </div>
   );
